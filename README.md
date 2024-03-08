@@ -1,0 +1,2 @@
+# BaldClassification-NullClassInternshipTask
+ A DEEP DIVE INTO YOLOV8  THROUGH BALD CLASSIFICATION  PROJECT.
